@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "zustand": "^4.3.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
